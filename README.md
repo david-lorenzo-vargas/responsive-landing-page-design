@@ -1,1 +1,3 @@
-# responsive-landing-page-design
+# RESPONSIVE LANDING PAGE DESIGN 
+
+## Ex

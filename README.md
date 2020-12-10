@@ -15,3 +15,7 @@ Desktop view
 Tablet view
 
 ![portfolio-tablet](https://user-images.githubusercontent.com/72414745/101843099-c47b5300-3b49-11eb-83f2-db11c790bbc6.gif)
+
+Phone view
+
+![portfolio-phone](https://user-images.githubusercontent.com/72414745/101843295-32277f00-3b4a-11eb-9be5-18878369406d.gif)

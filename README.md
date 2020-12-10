@@ -11,3 +11,7 @@ HTML, CSS, CSS variables, BEM, Grid, Flexbox, Fontawesome
 Desktop view
 
 ![portfolio-desktop](https://user-images.githubusercontent.com/72414745/101842572-a3fec900-3b48-11eb-80df-7ee28d6814b4.gif)
+
+Tablet view
+
+![portfolio-tablet](https://user-images.githubusercontent.com/72414745/101843099-c47b5300-3b49-11eb-83f2-db11c790bbc6.gif)

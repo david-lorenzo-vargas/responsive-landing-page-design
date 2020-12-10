@@ -213,6 +213,7 @@ i:hover {
 .grid__two {
   grid-column: 2/3;
   grid-row: 1/3;
+  height: 100%;
 }
 
 .grid__three {
@@ -230,6 +231,7 @@ i:hover {
 .grid__five {
   grid-column: 1/2;
   grid-row: 3/5;
+  height: 100%;
 }
 
 .grid__six {
@@ -259,4 +261,5 @@ i:hover {
 .grid__ten {
   grid-column: 3/4;
   grid-row: 5/7;
+  height: 100%;
 }
